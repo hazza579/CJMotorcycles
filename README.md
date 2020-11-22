@@ -10,3 +10,19 @@ This was the second of four Milestone Projects required to pass the Full Stack W
 
 Click [here](https://github.com/hazza579/CJMotorcycles) to view the Github repository for the project, and click [here]() to view the live website.
 
+## Table of Contents
+
+- [UX Design](#ux-design)
+    - [Design Process](#design-process)
+        - [Strategy Plane](#strategy-plane)
+        - [Scope Plane](#scope-plane)
+        - [Structure Plane](#structure-plane)
+        - [Skeleton Plane](#skeleton-plane)
+        - [Surface Plane](#surface-plane)
+    - [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Cloning](#cloning)
+- [Credits](#credits)
+
