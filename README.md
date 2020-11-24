@@ -26,3 +26,14 @@ Click [here](https://github.com/hazza579/CJMotorcycles) to view the Github repos
 - [Cloning](#cloning)
 - [Credits](#credits)
 
+## UX Design
+### Design Process
+#### Strategy Plane 
+I started the design process for _CJMotorcycles_ by considering the goals of the site owner (my friend) and the site users (customers to the business). I summarised these using the following user stories:
+
+_**Site owner**_
+1. As the site owner, I want the site users to be able to navigate the site easily and find what they are looking for to ecourage them to return to the site in the future.
+2. As the site owner, I want the website to be aesthetically pleasing and eye catching to allow for the business to stand out from the mass market and to create a positive and smooth experience for the site users.
+3. As the site owner, I want the site to function well and incorporate features to help fulfill customer needs, allowing us to receive positive feedback and gain more popularity.
+
+
