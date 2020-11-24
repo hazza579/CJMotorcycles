@@ -57,3 +57,20 @@ I also found these websites useful too:
 - [CMC Bikes](https://www.cmcbikes.com/)
 
 From my research and my user stories I defined the scope of my project by writing a list of “must-have” features and “nice-to-have” features that I wanted to include on my website.
+
+_**"Must-haves"**_
+1. The site must be aesthetically pleasing and have a consistent theme.
+2. The site must be easy to navigate.
+3. The site must load quickly and be responsive to user actions.
+4. The site must allow user to input what engine size they have.
+5. The site must give the customer instant feedback in regards to price for the engine size.
+6. The site must have a clear and easy to use contact button and related form.
+7. The site must demonstrate past projects and work undertaken.
+8. The site must have contact information including a map of where the business is.
+9. The site must allow the customer to change their selection of engine size without having to reload the page.
+10. The site must inculde relevant social media links to their other profiles.
+
+_**"Nice-to-haves"**_
+1. The site could display current weather conditions and advisories on riding.
+2. The site could allow the customer to be more specific about what bike they have rather than just engine size.
+3. The site could allow for the user to book a motorcycle in for repair / service using an online booking system.
