@@ -47,3 +47,13 @@ _**Site users**_
 8. As a new site user, I want to see past work or projects that the business has undertaken.
 9. As a returning site user, I want the site to remember my choices when inputting data about my motorcycle.
 10. As a returning site user, I want updates to garage opening days/times due to the current pandemic.
+
+#### Scope Plane
+After establishing the main aims of this project, I started looking for inspiration in similar business websites that already existed. I found this previous _Code Institue_ MS2 project particularly helpful, as it gave me a realistic idea of what I could achieve in a similar amount of time with a similar skill set:
+- [Eternity by Chris Birrell](https://birrellc.github.io/Eternity-MS2/#home)
+
+I also found these websites useful too:
+- [Riders motorcycle group](https://www.ridersgroup.co.uk/)
+- [CMC Bikes](https://www.cmcbikes.com/)
+
+From my research and my user stories I defined the scope of my project by writing a list of “must-have” features and “nice-to-have” features that I wanted to include on my website.
