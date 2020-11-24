@@ -36,4 +36,14 @@ _**Site owner**_
 2. As the site owner, I want the website to be aesthetically pleasing and eye catching to allow for the business to stand out from the mass market and to create a positive and smooth experience for the site users.
 3. As the site owner, I want the site to function well and incorporate features to help fulfill customer needs, allowing us to receive positive feedback and gain more popularity.
 
-
+_**Site users**_
+1. As a site user, I want to be able to navigate the site with ease and find what I'm looking for.
+2. As a site user, I want the site to load quickly when navigating to different sections of the site.
+3. As a site user, I want to be able to find the information I'm after without spending a lot of time on the site.
+4. As a site user, I want to be reassured that I can place my trust in the business.
+5. As a site user, I want to be able to contact the business directly from their site.
+6. As a new site user, I want the website to clearly display what services the business offers.
+7. As a new site user, I want to be able to find the address or contact details of the business.
+8. As a new site user, I want to see past work or projects that the business has undertaken.
+9. As a returning site user, I want the site to remember my choices when inputting data about my motorcycle.
+10. As a returning site user, I want updates to garage opening days/times due to the current pandemic.
